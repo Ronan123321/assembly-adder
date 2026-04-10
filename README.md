@@ -1,4 +1,4 @@
-** Assembly addition **
+**Assembly addition**
 
 Written in Intel syntax, it was originally just to practice for reverse engineering.
 I finished a full version, with subtract, multiply and divide added but it was on
@@ -6,7 +6,7 @@ my machine back when I use to run kali(☠️) and is now lost(I think). Either 
 the groundwork for what was later the calculator
 
 
-** My favorite bites of code **
+**My favorite bites of code**
 
 My beautiful safe print, clearly labelled useful
 `
